@@ -1,0 +1,5 @@
+TEST CONNEXION GITHUB — WATON PAONIA
+Date : 2026-11-06
+Objet : vérifier la création d'un fichier texte par le connecteur ChatGPT dans le dépôt paonia-medias-publics.
+Statut : TEST, fichier sans donnée confidentielle.
+Ne pas supprimer avant validation du test.
